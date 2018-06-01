@@ -1,0 +1,2 @@
+webpackJsonp([0xd447daf153d9],{515:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Gatsby Starter Blog",author:"Kyle Mathews"}},markdownRemark:{id:"/home/travis/build/sj-ayesha/sj-ayesha.github.io/src/pages/new-blog/index.md absPath of file >>> MarkdownRemark",html:"<p>Hello World</p>",frontmatter:{title:"Hello New Blog",date:"Invalid date"}}},pathContext:{slug:"/new-blog/",previous:{fields:{slug:"/hi-folks/"},frontmatter:{title:"New Beginnings"}},next:null}}}});
+//# sourceMappingURL=path---new-blog-f660044a25092294c38a.js.map
